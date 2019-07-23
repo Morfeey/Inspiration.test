@@ -1,0 +1,14 @@
+{
+  "defaultConnect" : "defaultMySQL",
+  "connections": {
+    "defaultMySQL" : {
+      "charset": "utf8",
+      "driver": "mysql",
+      "host": "localhost",
+      "prefix": "хуй",
+      "dataBase": "inspiration",
+      "userName" : "root",
+      "password": ""
+    }
+  }
+}
